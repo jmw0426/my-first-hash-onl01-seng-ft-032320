@@ -1,7 +1,7 @@
 
-def hash_pipe
-my_hash = {"dog" => "Harley", "cat" => "Maple"}
-return my_hash
+def my_hash
+your_hash = {"dog" => "Harley", "cat" => "Maple"}
+return your_hash
 end
 
 def shipping_manifest
