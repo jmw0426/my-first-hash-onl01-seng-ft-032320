@@ -1,6 +1,6 @@
 def hash_pipe
 my_hash = {"dog" => "Harley", "cat" => "Maple"}
-my_hash["dog"] + " and " + my_hash["cat"] + " are good girls."
+
 end
 
 def shipping_manifest
